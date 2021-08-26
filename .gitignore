@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/NPE/Return empty string when argument is null/out/
+/Topics/NPE/Return empty string when argument is null/out/production/classes/
